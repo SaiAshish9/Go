@@ -1,6 +1,8 @@
 ```
 Installation Guide:
 
+go mod tidy to install all dependencies
+
 Go to golang.org and choose download option. Then at the download page, select appropriate arm based verison for m1 mac.
 
 After installatin, setup can be deleted
